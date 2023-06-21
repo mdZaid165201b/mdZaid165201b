@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/mdzaid8920](https://github.com/mdzaid8920)](https://zaiddev.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://zaiddev.netlify.app/)
 
 - 📫 How to reach me **muhammadzaidabcd@gmail.com**
 
