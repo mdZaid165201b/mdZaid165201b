@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaid8920&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaid8920" /> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working as **JavaScript Fullstack Developer**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at (https://zaiddev.netlify.app/)
 
